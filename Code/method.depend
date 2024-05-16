@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1715794303 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\create_histogram.cpp
+	"create_histogram.hpp"
+
+1714723455 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\create_histogram.hpp
+	<iostream>
+	<bits/stdc++.h>
+
+1715793689 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\error_check.cpp
+	"error_check.hpp"
+
+1715788286 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\error_check.hpp
+	<iostream>
+	"predict_k_mer.hpp"
+	"s_mer_counter.hpp"
+
+1712686737 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\index_and_canonical.hpp
+	<iostream>
+
+1713294457 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\s_mer_counter.hpp
+	<iostream>
+	<bits/stdc++.h>
+	"Index_and_canonical.hpp"
+
+1712686806 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\index_and_canonical.cpp
+	<random>
+	"index_and_canonical.hpp"
+
+1715789008 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\main.cpp
+	<iostream>
+	"Index_and_canonical.hpp"
+	"s_mer_counter.hpp"
+	"predict_k_mer.hpp"
+	"error_check.hpp"
+	"simulate_error.hpp"
+	"create_histogram.hpp"
+
+1715787588 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\predict_k_mer.hpp
+	<iostream>
+	"Index_and_canonical.hpp"
+	"s_mer_counter.hpp"
+
+1715793008 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\predict_k_mer.cpp
+	"predict_k_mer.hpp"
+
+1715796008 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\s_mer_counter.cpp
+	"s_mer_counter.hpp"
+	<chrono>
+
+1713895313 source:c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\simulate_error.cpp
+	"simulate_error.hpp"
+
+1712688870 c:\users\fhugh\onedrive\dokument\kandidatarbete\kod\method\simulate_error.hpp
+	<iostream>
+	"error_check.hpp"
+	"s_mer_counter.hpp"
+
